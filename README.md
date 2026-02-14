@@ -38,10 +38,6 @@ Security groups used instead of direct user assignments for scalability
 
 Subscription-level Reader role applied to auditing account
 
-📊 Architecture Overview
-
-(Here you include your diagram)
-
 🎯 Skills Demonstrated
 
 Access control architecture
