@@ -1,3 +1,5 @@
+<img width="638" height="608" alt="image" src="https://github.com/user-attachments/assets/2fca436b-7dbb-4527-844a-f4c4f47698d7" />
+
 📘 Azure Governance & Access Control Architecture
 
 This project demonstrates the design and implementation of Role-Based Access Control (RBAC) in Microsoft Azure following enterprise security best practices.
